@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b145015-9df4-4a74-9be6-bebeff9015c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local-setup-helper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local-setup-helper/src/main/java/com/bank/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local-setup-helper/src/test/java/com/bank/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-bom/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-bom/src/main/java/com/bank/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-bom/src/test/java/com/bank/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-common/src/main/java/com/bank/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-common/src/test/java/com/bank/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-core/src/main/java/com/bank/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-core/src/test/java/com/bank/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-data-access/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-data-access/src/main/java/com/bank/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-data-access/src/test/java/com/bank/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-ear/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-ear/src/main/java/com/bank/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-ear/src/test/java/com/bank/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-model/src/main/java/com/bank/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-model/src/test/java/com/bank/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-parent/src/main/java/com/bank/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-parent/src/test/java/com/bank/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-presentation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-presentation/src/main/java/com/bank/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-presentation/src/test/java/com/bank/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-rules-jar/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-rules-jar/src/main/java/com/bank/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-rules-jar/src/test/java/com/bank/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-war/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-war/src/main/java/com/bank/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wts-war/src/test/java/com/bank/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2aQF7WmnEC8tu97JB9VoQkdDVGN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b145015-9df4-4a74-9be6-bebeff9015c3" name="Changes" comment="" />
+      <created>1704242733149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704242733149</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
